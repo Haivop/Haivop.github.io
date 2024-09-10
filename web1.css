@@ -56,8 +56,17 @@ li a:hover{
 
 .top-and-bottom h1,h3 {
     background-color: rgba(188, 143, 143, 0.650);
-    width: max-content;
     padding: 5px;
+}
+
+.top-and-bottom h1{
+    width: 300px;
+    text-align: right;
+}
+
+.top-and-bottom h3{
+    width: 300px;
+    text-align: left;
 }
 
 .container{
